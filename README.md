@@ -1,12 +1,12 @@
 # Hi, I'm Danu 👋
 
-🚀 **Product Manager | Engineer | Innovator**  
-🎯 Passionate about building impactful SaaS & fintech solutions  
-💡 Exploring AI, automation, and RFID-based inventory systems  
+ **Product Manager | Engineer | Innovator**  
+ Passionate about building impactful SaaS & fintech solutions  
+ Exploring AI, automation, and RFID-based inventory systems  
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Product Manager** with a background in engineering, passionate about building and scaling digital products. My journey has taken me through various roles—from developing **inventory management solutions** to working on **B2B fintech SaaS** and **AI-powered analytics**. With hands-on experience in **product strategy, MVP development, and automation**, I thrive at the intersection of technology and business.
 
@@ -22,7 +22,7 @@ I'm a **Product Manager** with a background in engineering, passionate about bui
 
 ---
 
-## 🛠️ Projects & Experience
+##  Projects & Experience
 
 🔹 **Inventory Management & Order Fulfillment**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Designed RFID-based **self-checkout UX** and warehouse picklist automation.  
