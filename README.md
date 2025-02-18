@@ -16,6 +16,9 @@ I'm a **Product Manager** with a background in engineering, passionate about bui
 - AI-powered form analysis & research tools
 - Fintech (Billing & Payments, AP automation)
 - Web & Mobile Product Development
+- Frontend Development with **Next.js**
+- UI/UX Prototyping with **Figma**
+- **Stealth-mode Product Development**
 
 ---
 
@@ -39,7 +42,8 @@ I'm a **Product Manager** with a background in engineering, passionate about bui
 ## 🎯 What I'm Working On
 - 📦 **Improving order fulfillment workflows** for a retail inventory platform.
 - 🔍 **Exploring AI integrations** in SaaS automation & data analytics.
-- 🌎 **Helping businesses optimize operations** through tech-driven solutions.
+- 🎨 **Enhancing UI/UX experiences** using Figma and frontend frameworks.
+- 🚀 **Building a stealth-mode product** aimed at solving key industry challenges.
 
 ---
 
