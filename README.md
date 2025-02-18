@@ -26,7 +26,7 @@ I'm a **Product Manager** with a background in engineering, passionate about bui
 
 🔹 **Inventory Management & Order Fulfillment**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Designed RFID-based **self-checkout UX** and warehouse picklist automation.  
-&nbsp;&nbsp;&nbsp;&nbsp;• Integrated **ShipStation** into ERP for shipping label automation.
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 🔹 **Fintech SaaS - AP Automation**  
 &nbsp;&nbsp;&nbsp;&nbsp;• Defined MVP for **account payable automation** with fraud detection & OCR.
