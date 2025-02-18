@@ -39,18 +39,18 @@ I'm a **Product Manager** with a background in engineering, passionate about bui
 
 ---
 
-## 🎯 What I'm Working On
-- 📦 **Improving order fulfillment workflows** for a retail inventory platform.
-- 🔍 **Exploring AI integrations** in SaaS automation & data analytics.
-- 🎨 **Enhancing UI/UX experiences** using Figma and frontend frameworks.
-- 🚀 **Building a stealth-mode product** aimed at solving key industry challenges.
+##  What I'm Working On
+-  **Improving order fulfillment workflows** for a retail inventory platform.
+-  **Exploring AI integrations** in SaaS automation & data analytics.
+-  **Enhancing UI/UX experiences** using Figma and frontend frameworks.
+-  **Building a stealth-mode product** aimed at solving key industry challenges.
 
 ---
 
 ## 🔗 Connect with Me
-💼 [LinkedIn](https://linkedin.com/in/danusabu)  
-📧 [Email](mailto:danusabu15@gmail.com)  
-🌐 [Portfolio/Website](https://danusabu.online) 
+ [LinkedIn](https://linkedin.com/in/danusabu)  
+ [Email](mailto:danusabu15@gmail.com)  
+ [Portfolio/Website](https://danusabu.online) 
 
 ---
 
