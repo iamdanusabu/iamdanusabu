@@ -1,6 +1,6 @@
 # Danu Sabu
 
-**Product Manager @ Retail Tech SaaS | Building Bravio**  
+**Product Manager @ Retail Tech SaaS | Building Vertical SaaS**  
 SaaS | AI | Field Service | Inventory Systems  
 
 ---
