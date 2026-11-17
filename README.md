@@ -7,7 +7,7 @@ SaaS | AI | Field Service | Inventory Systems
 
 ## ⚡ What I'm Doing Now
 
-- 🏗️ Building **Bravio** — field service software for biomedical teams  
+- 🏗️ Building a Vertical SaaS — field service software for biomedical teams  
 - 🧠 Exploring **AI in operational workflows** (automation > hype)  
 - 📦 Improving **order fulfillment & inventory systems** in retail SaaS  
 
