@@ -78,7 +78,7 @@ Small biomedical service teams are forced to use HVAC tools or overpriced enterp
 ## 🧩 What I'm Looking For
 
 - Conversations with operators (biomedical, retail, service teams)  
-- Early users for Bravio  
+- Biomed Techs feeling operational Inefficiency using current softwares  
 - People building in SaaS, AI, or ops-heavy products  
 
 ---
